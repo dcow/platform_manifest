@@ -36,6 +36,7 @@
   <project path="external/alsa-utils" name="platform/external/alsa-utils" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
+  <project path="external/bash" name="cvpcs/android_external_bash" remote="github" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" />
@@ -77,6 +78,7 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libc-ext" name="cvpcs/android_external_libc-ext" remote="github" />
   <project path="external/libffi" name="platform/external/libffi" />
+  <project path="external/libncurses" name="cvpcs/android_external_libncurses" remote="github" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libpng" name="platform/external/libpng" />
   <project path="external/libxml2" name="platform/external/libxml2" />
