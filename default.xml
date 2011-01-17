@@ -32,8 +32,6 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/fascinate" name="ModADroid/android_device_samsung_fascinate" remote="github" />
   <project path="device/samsung/common" name="cmsgs/android_device_samsung_common" remote="github" revision="master" />
-  <project path="external/alsa-lib" name="platform/external/alsa-lib" />
-  <project path="external/alsa-utils" name="platform/external/alsa-utils" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="cvpcs/android_external_bash" remote="github" />
@@ -120,7 +118,6 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="platform/frameworks/policies/base" />
 
-  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
