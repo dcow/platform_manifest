@@ -149,8 +149,8 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/IM" name="platform/packages/apps/IM" />
   <project path="packages/apps/Launcher2" name="ModADroid/android_packages_apps_Launcher2" remote="github" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
+  <project path="packages/apps/Mms" name="jt1134/android_packages_apps_Mms" remote="github" />
+  <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="ModADroid/platform_packages_apps_phone" remote="github" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
