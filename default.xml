@@ -5,6 +5,8 @@
            review="review.source.android.com" />
   <remote name="github"
            fetch="git://github.com/" />
+  <remote name="caf"
+           fetch="git://codeaurora.org/" />
   <default revision="froyo"
            remote="korg" />
 
