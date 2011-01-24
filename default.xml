@@ -33,7 +33,8 @@
   <project path="device/htc/sapphire" name="device/htc/sapphire" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/fascinate" name="ModADroid/android_device_samsung_fascinate" remote="github" />
-  <project path="device/samsung/common" name="cmsgs/android_device_samsung_common" remote="github" revision="master" />
+  <project path="device/samsung/common" name="ModADroid/android_device_samsung_common" remote="github" revision="master" />
+
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="cvpcs/android_external_bash" remote="github" />
