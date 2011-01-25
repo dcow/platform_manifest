@@ -82,7 +82,7 @@
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libncurses" name="cvpcs/android_external_libncurses" remote="github" />
   <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="github" />
+  <project path="external/libpng" name="platform/external/libpng" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/mtpd" name="platform/external/mtpd" />
   <project path="external/netcat" name="platform/external/netcat" />
@@ -97,7 +97,7 @@
   <project path="external/qemu" name="platform/external/qemu"  revision="tools_r6"/>
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" />
+  <project path="external/skia" name="platform/external/skia" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -110,7 +110,7 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
-  <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" />
+  <project path="external/webkit" name="platform/external/webkit" />
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
@@ -136,7 +136,7 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
   <project path="packages/apps/AlarmClock" name="platform/packages/apps/AlarmClock" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
-  <project path="packages/apps/Browser" name="jt1134/android_packages_apps_Browser" remote="github" />
+  <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
@@ -169,7 +169,7 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" name="jt1134/android_packages_providers_DownloadProvider" remote="github" />
+  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
