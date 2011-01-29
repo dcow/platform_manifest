@@ -179,5 +179,6 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
+  <project path="update" name="ModADroid/update_zip" remote="github" revision="master" />
   <project path="vendor/nextheme" name="jt1134/android_vendor_nextheme" remote="github" />
 </manifest>
