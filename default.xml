@@ -26,7 +26,7 @@
 
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/fascinate" name="ModADroid/android_device_samsung_fascinate" remote="github" />
+  <profect path="device/samsung/mesmerize" name="dcow/android_device_samsung_mesmerize" remost="github" />
   <project path="device/samsung/common" name="ModADroid/android_device_samsung_common" remote="github" revision="master" />
 
   <project path="external/apache-http" name="platform/external/apache-http" />
